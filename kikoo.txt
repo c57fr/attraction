@@ -1,5 +1,0 @@
-Voici un premier fichier de toi qui va utiliser le Git....
-
-G 1 idée,
-
-et encore une !
